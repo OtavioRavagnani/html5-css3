@@ -1,0 +1,6 @@
+tamanhos bons:
+JPG: 1200 pixel é um tamanho bom para JPG pois será usada para fundos e eslogans e tamplaites 
+PNG: 200 pixels é um tamanho bom para PNG pois sao para coisas pequenas como verificados e logos pois são trasnsparentes e com uma compctação boa 
+
+como editar:
+tanto para PNG e JPG a edição é a mesma vao ter que diminuir a largura e a altura delas para um tamanho bom (com o GIMP)

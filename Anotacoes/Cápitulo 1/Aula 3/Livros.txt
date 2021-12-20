@@ -1,0 +1,49 @@
+livros:
+
+mark pilgrin: HTML 5
+O'Raiily
+
+Eric Meyer:CCS
+O'Raiily
+
+Estelle Weyl: flexbox in CSS
+O'Raiily
+
+Eric meyer:grid layout in CSS
+O'Raiily
+
+Elizabeth Casrtro e Bruce Hyslop:HTML5 e CSS3
+Alta Books
+
+Jon Duckett: html e css
+Alta Books
+
+Elisabrth Robson e Eric Freeman: html e css
+Alta Books 
+
+Nate CoopeR e kim Gee: crie seu proprio site 
+NovaTech 
+
+Maurício Samy Silva: HTML 5
+NovaTech
+
+Maurício Samy Silva: CSS3
+NovaTech
+
+Maurício Samy Silva: fundamentos de HTML 5 e CSS 3
+NovaTech
+
+Maurício Samy Silva: CSS grid layout
+NovaTech
+
+David Dabner e outros: curso de desing gráfico
+GG
+
+Bob e Maggie Gordon: desing
+senac
+
+Eva Haller: a pisicologia das cores 
+GG
+
+Ellen Lupton: pensar com tipos 
+GG

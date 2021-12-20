@@ -1,0 +1,27 @@
+HTML: 
+HyperTexte
+Markup
+Language
+
+CSS: 
+Cascading
+Style
+Sheets
+
+Conteúdo HTML: 
+textos 
+imagens 
+videos 
+tabelas 
+
+Deing CSS: 
+cores 
+sombras 
+tamanhos 
+posicionamnentos 
+
+Interações JavaScript:
+menus 
+animações 
+popups
+validações 
