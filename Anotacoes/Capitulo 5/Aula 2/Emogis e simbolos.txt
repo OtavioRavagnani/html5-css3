@@ -1,4 +1,0 @@
-Simbolos:
-&lt; = <
-&gt; = >
-&#x = emojis
